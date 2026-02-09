@@ -1,6 +1,6 @@
 # Análise de Risco de Churn (Retenção de Clientes)
 
-## O projeto simula uma pipeline de análise de dados para avaliar o risco de perda de cliente utilizando Python e a biblioteca Pandas.
+ O projeto simula uma pipeline de análise de dados para avaliar o risco de perda de clientes utilizando Python e a biblioteca Pandas.
 
 ### Exemplo de saída: 
 cliente_id,data_ultima_compra,total_gasto,dias_ocioso,status
