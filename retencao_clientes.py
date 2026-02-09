@@ -15,10 +15,7 @@ df['data_ultima_compra'] = pd.to_datetime(df['data_ultima_compra'])
 
 agora = datetime.now()
 dias_sem_comprar = (agora - df['data_ultima_compra']).dt.days
-
-
 df['status'] = np.where(dias_sem_comprar > 90, 'CRÍTICO', 'OK')
-# Exportando para Excel
-df.to_excel('relatorio_churn.xlsx', index=False, sheet_name='Dados_Criticos')
 
 print(df)
+
