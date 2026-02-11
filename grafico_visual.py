@@ -9,5 +9,6 @@ contagem.plot(kind='bar')
 plt.title('Gráfico de Retenção')
 plt.xticks(rotation=0)
 plt.xlabel('Status')
-plt.ylabel('Quantidade')
+plt.ylabel('Quantidade(clientes)')
+
 plt.show()
