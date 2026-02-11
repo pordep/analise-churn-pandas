@@ -9,4 +9,5 @@ cliente_id,data_ultima_compra,total_gasto,dias_ocioso,status
 
 ### Gráfico visual:
 
-<img width="640" height="480" alt="grafico_visual" src="https://github.com/user-attachments/assets/e060a1e2-780b-4a2f-a142-280fe68401ca" />
+<img width="640" height="480" alt="retencao_grafico" src="https://github.com/user-attachments/assets/079d3f3b-ec01-45f2-b790-4e5071d5b4d9" />
+
